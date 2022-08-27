@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Aula24/Classe e Atributos.iml" filepath="$PROJECT_DIR$/Aula24/Classe e Atributos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Aula29/Construtores.iml" filepath="$PROJECT_DIR$/Aula29/Construtores.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Aula24/ContaCorrente/ContaCorrente.iml" filepath="$PROJECT_DIR$/Aula24/ContaCorrente/ContaCorrente.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Aula24/Contato/Contato.iml" filepath="$PROJECT_DIR$/Aula24/Contato/Contato.iml" />
+      <module fileurl="file://$PROJECT_DIR$/25a27/Exercicios.iml" filepath="$PROJECT_DIR$/25a27/Exercicios.iml" />
+      <module fileurl="file://$PROJECT_DIR$/28a33/Exercicios2.iml" filepath="$PROJECT_DIR$/28a33/Exercicios2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ExercicoJava.iml" filepath="$PROJECT_DIR$/ExercicoJava.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Aula32/Getters e Setters.iml" filepath="$PROJECT_DIR$/Aula32/Getters e Setters.iml" />
+      <module fileurl="file://$PROJECT_DIR$/25a27/JogoDaVelha/JogoDaVelha.iml" filepath="$PROJECT_DIR$/25a27/JogoDaVelha/JogoDaVelha.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Aula24/Lampada/Lampada.iml" filepath="$PROJECT_DIR$/Aula24/Lampada/Lampada.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Aula24/LivroLivraria/LivroLivraria.iml" filepath="$PROJECT_DIR$/Aula24/LivroLivraria/LivroLivraria.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Aula24/LivrodeBiblioteca/LivrodeBiblioteca.iml" filepath="$PROJECT_DIR$/Aula24/LivrodeBiblioteca/LivrodeBiblioteca.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Aula24/Livros/Livros.iml" filepath="$PROJECT_DIR$/Aula24/Livros/Livros.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Aula25/Metodo Simples.iml" filepath="$PROJECT_DIR$/Aula25/Metodo Simples.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Aula27/Metodo com Parametro.iml" filepath="$PROJECT_DIR$/Aula27/Metodo com Parametro.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Aula26/Metodos com Retorno.iml" filepath="$PROJECT_DIR$/Aula26/Metodos com Retorno.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Aula33/Overload.iml" filepath="$PROJECT_DIR$/Aula33/Overload.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Aula30/This.iml" filepath="$PROJECT_DIR$/Aula30/This.iml" />
+    </modules>
+  </component>
+</project>
